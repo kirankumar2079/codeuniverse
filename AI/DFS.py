@@ -4,7 +4,7 @@ jug1_capacity = 4
 jug2_capacity = 3
 
 initial_state = (0,0)
-goal = (5,0)
+goal = (0,1)
 
 visited = set()
 
